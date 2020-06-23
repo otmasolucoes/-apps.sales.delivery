@@ -1,0 +1,7 @@
+include LICENSE
+include README.rst
+recursive-include otma/apps/sales/delivery/conf *
+recursive-include otma/apps/sales/delivery/docs *
+recursive-include otma/apps/sales/delivery/tests *
+recursive-include otma/apps/sales/delivery/static *
+recursive-include otma/apps/sales/delivery/templates *
